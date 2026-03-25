@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co.com/fzwKH5CD/Building-the-future-one-line-of-code-at-a-time.png" />
+  <img width="100%" src="https://i.ibb.co.com/fzwKH5CD/Building-the-future-one-line-of-code-at-a-time.png" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Rakib Hossen</h1>
