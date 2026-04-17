@@ -72,10 +72,10 @@ I’m **Rakib Hossen**, a passionate **Full Stack Software Engineer** focused on
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devrakibhossen&layout=compact&theme=dracula" height="150"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=devrakibhossen&show_icons=true&theme=prussian" height="150"/>
-  <br/>
+  </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devrakibhossen&theme=react-dark" height="250"/>
 </div>
 
